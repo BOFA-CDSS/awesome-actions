@@ -4,7 +4,7 @@
   <br>
 </p>
 
-# Awesome Actions lab[![Awesome](
+# Awesome Actions lab non default(
 
 Actions are triggered by GitHub platform events directly in a repo and run on-demand workflows either on Linux, Windows or macOS virtual machines or inside a container in response. With GitHub Actions you can automate your workflow from idea to production.
 
